@@ -1,3 +1,10 @@
+<!--
+SPDX-FileCopyrightText: 2023 Tecnología de Raíz <tecnologiaderaiz@disroot.org
+SPDX-FileCopyrightText: 2023 Tecnología de Raíz <tecnologiaderaiz@disroot.org>
+
+SPDX-License-Identifier: CC-BY-NC-4.0
+-->
+
 +++
 title = "2. Step by step to create the design of your sector antenna"
 date = 2022-04-25

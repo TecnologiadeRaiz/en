@@ -1,3 +1,10 @@
+<!--
+SPDX-FileCopyrightText: 2023 Tecnología de Raíz <tecnologiaderaiz@disroot.org
+SPDX-FileCopyrightText: 2023 Tecnología de Raíz <tecnologiaderaiz@disroot.org>
+
+SPDX-License-Identifier: CC-BY-NC-4.0
+-->
+
 #Directional antenna design
 
 The present design aims to provide how to make a directional MiMo antenna for 5Ghz, capable of achieving a gain of 20dB to 25dB.
