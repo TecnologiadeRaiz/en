@@ -1,12 +1,17 @@
-# Recommended information
-Authors:
-    - My Name
+# SPDX-FileCopyrightText: 2023 Tecnología de Raíz <tecnologiaderaiz@disroot.org>
+#
+# SPDX-License-Identifier: CC0-1.0
 
-Affiliation: My Affiliation
+# Recommended information
+
+Authors:
+    - TDR
+
+# Affiliation: Tecnología de Raíz
 
 #License: CERN-OHL-1.2
 
-Email: my-email@my.domain
+Email: tecnologiaderaiz@disroot.org
 
 
 #Uncomment below to add custom categories
@@ -19,10 +24,10 @@ Email: my-email@my.domain
 #DefaultCategory: printedtool
 
 #Uncomment below to set the title for the bill of material on a page
-#PageBOMTitle: '##For this step you will need'
+#PageBOMTitle: 
 
 #Uncomment below to override the project title
-#Title: 'My project'
+#Title: ''
 
 #Uncomment below to set a custom Website root for static HTML builds
 #WebsiteRoot: '/path/'
