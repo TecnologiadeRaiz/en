@@ -270,7 +270,7 @@ nav {
  */
 .wrapper:after {
   clear: both;
-  content: ;
+  content: "";
   display: table;
 }
 
@@ -398,7 +398,7 @@ nav {
  */
  .details-header:after {
   clear: both;
-  content: ;
+  content: "";
   display: table;
 }
 
