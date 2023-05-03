@@ -10,9 +10,9 @@ SPDX-License-Identifier: CC-BY-NC-4.0
 
 ## We are TdR
 
-Neighbors of the Ecological Neighborhood "El Montecito" located in the Punilla Valley (Córdoba, Argentina)
+Neighbors of the Ecological Neighborhood "El Montecito" located in Punilla Valley (Córdoba, Argentina)
 
-We formed a study and research group, with which we created a space to work and study together, and we have sustained it continuously since mid-2019.
+We formed a study and research group, wherein we created a space to work and study together, and we have sustained it continuously since mid-2019.
 
 <img src="https://i.imgur.com/lLrzTjU.jpg" height="250">
 
