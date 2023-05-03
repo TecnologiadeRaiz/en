@@ -40,12 +40,12 @@ For this, we use a workshop space with a limited number of tools, which allow us
 
 We started the research path by building double biquad antennas.
 
-<img src="https://i.imgur.com/vWV7acY.jpg" height="300">
-<img src="https://i.imgur.com/lvkdowg.jpg" height="200"> 
-<img src="https://i.imgur.com/NS17Tfq.jpg" height="200"> 
-<img src="https://i.imgur.com/xDR5DUN.jpg" height="180"> 
-<img src="https://i.imgur.com/pLAnDUg.jpg" height="300"> 
-<img src="https://i.imgur.com/13lidiH.jpg" height="180"> 
+![](https://i.imgur.com/vWV7acY.jpg)
+![](https://i.imgur.com/lvkdowg.jpg)
+![](https://i.imgur.com/NS17Tfq.jpg)
+![](https://i.imgur.com/xDR5DUN.jpg)
+![](https://i.imgur.com/pLAnDUg.jpg)
+![](https://i.imgur.com/13lidiH.jpg)
 
 Some of which are installed in the MonteNet network, helping to improve the link between nodes.
 
