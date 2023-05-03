@@ -33,10 +33,10 @@ By forming ourselves as a working group, our search is:
 
 For this, we use a workshop space with a limited number of tools, which allow us to develop our production, but we would like to be able to improve it, both in terms of construction and adding machines and tools
 
-<img src="https://i.imgur.com/ljebrYh.jpg" height="200">
-<img src="https://i.imgur.com/EsKhwjh.jpg" height="350">
-<img src="https://i.imgur.com/iYsBOGX.jpg" height="350">
-<img src="https://i.imgur.com/3yWspAI.jpg" height="200">
+![](https://i.imgur.com/ljebrYh.jpg)
+![](https://i.imgur.com/EsKhwjh.jpg)
+![](https://i.imgur.com/iYsBOGX.jpg)
+![](https://i.imgur.com/3yWspAI.jpg)
 
 We started the research path by building double biquad antennas.
 
