@@ -25,13 +25,14 @@ This research process involved familiarizing ourselves with the design tools in 
 Our first <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Partes%20plasticas/Tapas/TAPA-v1.FCStd">design</a> allowed us to improve the performance of the antenna, since the plastic strips that we used as a cover interfered with the waveguide signal.
 
 
-<img src="https://i.imgur.com/B5QyScj.png" height="300">
-<img src="https://i.imgur.com/qcSYKYG.jpg" height="400">
-<img src="https://i.imgur.com/USdhI9N.jpg" height="230">
-  
+![](https://i.imgur.com/B5QyScj.png)
+![](https://i.imgur.com/qcSYKYG.jpg)
+![](https://i.imgur.com/USdhI9N.jpg)  
 
 ### Drilling mold   
-    
+
+![](models/MOLDEDEPERFORACIONGUIADEONDAS-v2.stl)
+
 
 This <a href="https://github.com/TecnologiadeRaiz/LoPALiR/tree/main/Partes%20plasticas/Molde%20de%20perforacion">design</a> gives us precision when drilling holes in the waveguide, speeding up the production process.
 
@@ -49,31 +50,26 @@ The possibility of designing <a href="https://github.com/TecnologiadeRaiz/LoPALi
 
 The first design was fragile because the material we used, PLA filament, was not suitable for the antennas, as they are exposed to sun, rain and wind.
     
-<img src="https://i.imgur.com/eRYq3qk.jpg" height="300">
-<img src="https://i.imgur.com/hosCe4W.jpg" height="300">
+![](https://i.imgur.com/eRYq3qk.jpg)
+![](https://i.imgur.com/hosCe4W.jpg)
 
 
 The second version of the portachain was designed taking into account the increased thickness of the part to give it more solvency, and the material, which was replaced by PETG filament.   
     
-<img src="https://i.imgur.com/sjzqKpC.jpg" height="200">
-<img src="https://i.imgur.com/dSYESlO.jpg" height="200">
-<img src="https://i.imgur.com/M4A7HxO.jpg" height="350">
-<img src="https://i.imgur.com/zUYhU1E.jpg" height="200">
+![](https://i.imgur.com/sjzqKpC.jpg)
+![](https://i.imgur.com/dSYESlO.jpg)
+![](https://i.imgur.com/M4A7HxO.jpg)
+![](https://i.imgur.com/zUYhU1E.jpg)
    
 
 The first designs did not allow us to hold the cables as expected.
 
 Then we realized that in order to give it a better finish and a better grip, we had to attach a 3/8 crimped aluminum pipe ring to the cable holder, thus providing the expected firmness to hold the cables.
-
-<img src="https://i.imgur.com/I1uTTNk.jpg" width=200>
-
-<img src="https://i.imgur.com/AWqCxcW.jpg" width=200>
-
-<img src="https://i.imgur.com/p0yf3wo.jpg" width=200>
-
-<img src="https://i.imgur.com/huKXoWX.png" width=330>
-
-<img src="https://i.imgur.com/LlzesG8.png" width=330>
+![](https://i.imgur.com/I1uTTNk.jpg)
+![](https://i.imgur.com/AWqCxcW.jpg)
+![](https://i.imgur.com/p0yf3wo.jpg)
+![](https://i.imgur.com/huKXoWX.png)
+![](https://i.imgur.com/LlzesG8.png)
 
 
 ### Paint
@@ -101,8 +97,10 @@ For more information about the procedure, here.
 
 
 ### Finished antenna with plastic parts
-    
-<img src="https://i.imgur.com/m1Qy7DX.jpg" width=170>
-<img src="https://i.imgur.com/hki5apn.jpg" width=300>
+![](https://i.imgur.com/m1Qy7DX.jpg)
+![](https://i.imgur.com/hki5apn.jpg)
+
+
+
 
 
