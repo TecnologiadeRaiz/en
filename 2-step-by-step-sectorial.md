@@ -33,8 +33,7 @@ As illuminator we use for each chain, a 11.7mm spike of 95/30 coaxial cable from
 
 We provide the plans to build these antennas.
 
-<img src="https://i.imgur.com/PNygytb.png"  height="300">
-<img src="https://i.imgur.com/aPSEXgN.png"  height="300">
-
+![](https://i.imgur.com/sWBLNPN.png)
+![](https://i.imgur.com/Bm5bfip.png)
 
 Files in: <a href="https://github.com/TecnologiadeRaiz/LoPALiR">LoPALiR</a>
