@@ -31,8 +31,7 @@ Our first <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Partes%
 
 ### Drilling mold   
 
-![](models/MOLDEDEPERFORACIONGUIADEONDAS-v2.stl)
-
+![](models/MOLDEDEPERFORACIONGUIADEONDAS-v2.stl){color: #996699}
 
 This <a href="https://github.com/TecnologiadeRaiz/LoPALiR/tree/main/Partes%20plasticas/Molde%20de%20perforacion">design</a> gives us precision when drilling holes in the waveguide, speeding up the production process.
 
