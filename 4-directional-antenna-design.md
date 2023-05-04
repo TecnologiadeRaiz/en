@@ -43,4 +43,4 @@ We used a 40cm diameter and 8cm high parabolic dish as a mould, calculating the 
 
 <p>This project was funded through the <strong> <a href="https://nlnet.nl/useroperated/">User-Operated Internet</a> </strong> fund, a fund established by <a href="https://nlnet.nl">NLnet</a> made possible by financial support from the <a href="https://pkt.cash" rel="nofollow">PKT Community</a> <a href="https://pkt.cash/network-steward" rel="nofollow">The Network Steward</a> and stichting <a href="https://technologycommons.org">Technology Commons Trust</a>.</p> 
 
-<p>Saludamos a les amigues de <a href="https://altermundi.net/">AlterMundi.</a></p>
+<p>En cooperación con <a href="https://altermundi.net/">AlterMundi.</a></p>

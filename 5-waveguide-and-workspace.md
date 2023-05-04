@@ -14,8 +14,8 @@ The physical space in which we work is a 3.5m x 4m room, where we have two work 
 
  
 
-<img src="https://i.imgur.com/gXzymOk.jpg" width="500">
-<img src="https://i.imgur.com/q1ku5VV.jpg" width="500">
+![](https://i.imgur.com/gXzymOk.jpg)
+![](https://i.imgur.com/q1ku5VV.jpg)
 
 ## Personal protective equipment:
 
@@ -52,9 +52,8 @@ For this process we use a table and a wooden block that helps us to make the mar
 
 We use the work table with a wooden block that holds the metal plate to mark it, supporting the template to make the perforations on it.
 
-<img src="https://i.imgur.com/ttwx4Xp.jpg" width="250">
-
-<img src="https://i.imgur.com/qqn3m3w.jpg" width="229">
+![](https://i.imgur.com/ttwx4Xp.jpg)
+![](https://i.imgur.com/qqn3m3w.jpg)
 
 
 
@@ -96,10 +95,11 @@ With the metal plates marked, we proceed to drill them with the bench drill.
 Once the holes have been drilled, we file off the burrs.
 
 
-<img src="https://i.imgur.com/Uk10gMI.jpg" width="250">
-<img src="https://i.imgur.com/v7XmteS.jpg" width="250">
-<img src="https://i.imgur.com/a5hBm64.jpg" width="250">
-<img src="https://i.imgur.com/hnJvwl5.jpg" width="250">
+![](https://i.imgur.com/Uk10gMI.jpg)
+![](https://i.imgur.com/v7XmteS.jpg)
+![](https://i.imgur.com/a5hBm64.jpg)
+![](https://i.imgur.com/hnJvwl5.jpg)
+
 
 
 #### Recommendations:
@@ -168,9 +168,9 @@ The waveguide pipe is used as a template to mark the brackets.
 Then with the sheet metal cutter, following the marks, the rounded shape is given.
 
 
-<img src="https://i.imgur.com/ra1M4Wp.jpg" width="200">
-<img src="https://i.imgur.com/Ul3tYHn.jpg" width="250">
-<img src="https://i.imgur.com/Xw1oF1h.jpg" width="250">
+![](https://i.imgur.com/ra1M4Wp.jpg)
+![](https://i.imgur.com/Ul3tYHn.jpg)
+![](https://i.imgur.com/Xw1oF1h.jpg)
 
 
 #### Recommendations:
@@ -261,10 +261,8 @@ For drying, we use a hanging device where they can remain for the necessary time
 In case you do not have a painting machine, this procedure can be done with a brush.
 
 
-<img src="https://i.imgur.com/HRpBZ2O.jpg" width="300">
-
-<img src="https://i.imgur.com/QMW2gVO.jpg" width="250">
-
+![](https://i.imgur.com/QMW2gVO.jpg)
+![](https://i.imgur.com/HRpBZ2O.jpg)
 
 ## Pigtail cable assembly
 
@@ -272,17 +270,13 @@ In case you do not have a painting machine, this procedure can be done with a br
 
     This part of the production is carried out on a table free of metal filings or shavings.
 
-<img src="https://i.imgur.com/ROP7Pib.jpg" width="250">
-
-
-<img src="https://i.imgur.com/F7tCu67.jpg" width="250">
-
+![](https://i.imgur.com/ROP7Pib.jpg)
+![](https://i.imgur.com/F7tCu67.jpg)
 
 We fit the SMA RP male connectors
 
-<img src="https://i.imgur.com/rShLDTP.jpg" width="250">
-
-<img src="https://i.imgur.com/ezeSEGo.png" width="250">
+![](https://i.imgur.com/rShLDTP.jpg)
+![](https://i.imgur.com/ezeSEGo.png)
 
 
 
@@ -295,9 +289,9 @@ To show how the process works, we share these explainer videos:
 
 To complete the process, they are crimped and heat-shrunk. 
 
-<img src="https://i.imgur.com/ZACdT5x.png" width="250">
+![](https://i.imgur.com/ZACdT5x.png)
+![](https://i.imgur.com/HNBOqjr.jpg)
 
-<img src="https://i.imgur.com/HNBOqjr.jpg" width="250">
 
 
 
