@@ -77,7 +77,7 @@ We have built some [waveguides](https://tdr.libre.org.ar/paso-a-paso-sectorial/)
 * Support and promotion of community networks in the area
 
 
-We are motivated to share empowering knowledge that facilitates technological appropriation, and that is why we work on registering our production processes, in order to share them.
+>i We are motivated to share empowering knowledge that facilitates technological appropriation, and that is why we work on registering our production processes, in order to share them.
 
 ---
 ### Links to LoPALiR project content:
