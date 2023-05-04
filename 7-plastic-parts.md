@@ -100,6 +100,18 @@ For more information about the procedure, here.
 ![](https://i.imgur.com/hki5apn.jpg)
 
 
+### couplings for directional antenna design
+
+We have developed several complementary parts to the waveguide, in order to increase the final directionality.
+The latest tests confirm that approximately 13dB of gain is achieved in one direction.
+
+
+Parabola brackets allow the addition of the 16 inch secondary reflector to the waveguide. The nosepiece also covers the inside of the tube and holds the primary reflector in the focal zone of the parabola.
+The actual nose takes 5 hours to print, in total the necessary parts take almost 8 hours to print.
+
+![](images/portareflector-perspective001.png)
+![](images/soporte-parabaola002.png)
+![](images/waveguide-accesorios002.png)
 
 
 
