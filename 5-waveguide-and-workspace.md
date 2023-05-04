@@ -423,3 +423,9 @@ To protect the illuminators, the waveguide is closed with a plastic cover and si
 <img src="https://i.imgur.com/aEgRFwI.jpg" width="400">
 
 >!TDR is not responsible for possible damages caused by performing these procedures using this informative material.
+
+<img src="https://user-images.githubusercontent.com/104506596/191294248-aa22ad16-f991-412b-8d32-99e27614e7f2.png" alt="Logo NLnet: abstract logo of four people seen from above" height="70"><img src="https://nlnet.nl/image/logos/technologycommonstrust.svg" height="100">
+
+<p>This project was funded through the <strong> <a href="https://nlnet.nl/useroperated/">User-Operated Internet</a> </strong> fund, a fund established by <a href="https://nlnet.nl">NLnet</a> made possible by financial support from the <a href="https://pkt.cash" rel="nofollow">PKT Community</a> <a href="https://pkt.cash/network-steward" rel="nofollow">The Network Steward</a> and stichting <a href="https://technologycommons.org">Technology Commons Trust</a>.</p> 
+
+<p>Saludamos a les amigues de <a href="https://altermundi.net/">AlterMundi.</a></p>

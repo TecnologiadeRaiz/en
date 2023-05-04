@@ -16,9 +16,8 @@ In this new iteration of the "Trompebolic" design, we used a 44mm waveguide with
 We used a 40cm diameter and 8cm high parabolic dish as a mould, calculating the focus at 12.5cm from the centre.
 
 
-![](https://i.imgur.com/O40ktXq.png)
-![](https://i.imgur.com/r7B7nDr.png)
-
+![](images/parabola-front001.png)
+![](images/parabola-side001.png)
 
 
 ### Reflector.
@@ -28,13 +27,20 @@ We used a 40cm diameter and 8cm high parabolic dish as a mould, calculating the 
 
 ### Cover, parabola support and handles.
 
-![](https://i.imgur.com/uCBFa1C.png)
-![](https://i.imgur.com/I7ZMRJ2.png)
-![](https://i.imgur.com/ivvFrU9.png)
->
+![](images/soporte-parabaola001.png)
+![](images/portareflector-side001.png)
+![](images/waveguide-perspective001.png)
+![](images/waveguide-accesorios001.png)
+
 
 
 ### Final design.
 
-![](https://i.imgur.com/H1Ysg9e.png)
-![](https://i.imgur.com/i42kOdD.png)
+![](images/plano-Parabola001.png)
+![](images/plano-portareflector001.png)
+
+<img src="https://user-images.githubusercontent.com/104506596/191294248-aa22ad16-f991-412b-8d32-99e27614e7f2.png" alt="Logo NLnet: abstract logo of four people seen from above" height="70"><img src="https://nlnet.nl/image/logos/technologycommonstrust.svg" height="100">
+
+<p>This project was funded through the <strong> <a href="https://nlnet.nl/useroperated/">User-Operated Internet</a> </strong> fund, a fund established by <a href="https://nlnet.nl">NLnet</a> made possible by financial support from the <a href="https://pkt.cash" rel="nofollow">PKT Community</a> <a href="https://pkt.cash/network-steward" rel="nofollow">The Network Steward</a> and stichting <a href="https://technologycommons.org">Technology Commons Trust</a>.</p> 
+
+<p>Saludamos a les amigues de <a href="https://altermundi.net/">AlterMundi.</a></p>

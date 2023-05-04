@@ -35,9 +35,8 @@ Our first <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Partes%
 
 This <a href="https://github.com/TecnologiadeRaiz/LoPALiR/tree/main/Partes%20plasticas/Molde%20de%20perforacion">design</a> gives us precision when drilling holes in the waveguide, speeding up the production process.
 
-<img src="https://i.imgur.com/wIoHxUG.jpg" height="400">
-
-<img src="https://i.imgur.com/3hOE8YZ.png" height="330">
+![](https://i.imgur.com/wIoHxUG.jpg")
+![](https://i.imgur.com/3hOE8YZ.png")
         
 
 ### Portachain
@@ -96,11 +95,15 @@ For more information about the procedure, here.
 
 
 ### Finished antenna with plastic parts
+
 ![](https://i.imgur.com/m1Qy7DX.jpg)
 ![](https://i.imgur.com/hki5apn.jpg)
 
+<img src="https://user-images.githubusercontent.com/104506596/191294248-aa22ad16-f991-412b-8d32-99e27614e7f2.png" alt="Logo NLnet: abstract logo of four people seen from above" height="70"><img src="https://nlnet.nl/image/logos/technologycommonstrust.svg" height="100">
 
-![](models/SOPORTEPARÁBOLA-v1.gltf)
+<p>This project was funded through the <strong> <a href="https://nlnet.nl/useroperated/">User-Operated Internet</a> </strong> fund, a fund established by <a href="https://nlnet.nl">NLnet</a> made possible by financial support from the <a href="https://pkt.cash" rel="nofollow">PKT Community</a> <a href="https://pkt.cash/network-steward" rel="nofollow">The Network Steward</a> and stichting <a href="https://technologycommons.org">Technology Commons Trust</a>.</p> 
+
+<p>Saludamos a les amigues de <a href="https://altermundi.net/">AlterMundi.</a></p>
 
 
 
