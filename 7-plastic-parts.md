@@ -100,6 +100,10 @@ For more information about the procedure, here.
 ![](https://i.imgur.com/hki5apn.jpg)
 
 
+![](models/SOPORTEPARÁBOLA-v1.gltf)
+
+
+
 
 
 

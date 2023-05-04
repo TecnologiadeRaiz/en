@@ -18,7 +18,9 @@ In the search for an antenna design with optimal gain, easily replicable , we re
 This is the foundation on which we build our production experiences and continue to expand research at TDR.
 
 We work with a free drawing software program for the design of the antennas.
-<img src="https://i.imgur.com/94INyTn.jpg" height="300">
+
+![](images/FRECAD.png)
+
 
 These are the results using [FreeCAD](https://www.freecadweb.org/downloads.php?lang=es_ES)
 <img src="https://i.imgur.com/NYOZ9TS.jpg" height="300">
