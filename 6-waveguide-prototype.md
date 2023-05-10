@@ -186,9 +186,8 @@ There is also the possibility of generating "joint stresses" between the materia
 To support the cables, we designed a "bridge" type grip with sheet metal welded to the waveguide. 
 </p>
 
-<img src="https://i.imgur.com/GUXQlql.jpg" width=250> 
-
-<img src="https://i.imgur.com/fRiHOqY.jpg" width=350>
+![](https://i.imgur.com/GUXQlql.jpg)
+![](https://i.imgur.com/fRiHOqY.jpg)
 
 <ul>
     <li>
@@ -219,18 +218,9 @@ Then we chose to leave room for only two sizes of "threaded u", thus giving the 
 </p>
 
 
-<img src="https://i.imgur.com/N9i2lSI.jpg" width=350>
-
-
-
-
-
-<img src="https://i.imgur.com/W4uxnWd.jpg" width=350>
-
-
-<img src="https://i.imgur.com/dLqFD0W.png" width=450>
-
-
+![](https://i.imgur.com/N9i2lSI.jpg)
+![](https://i.imgur.com/W4uxnWd.jpg)
+![](https://i.imgur.com/dLqFD0W.png)
 
 <h2>
     <u>
@@ -245,8 +235,8 @@ Then we chose to leave room for only two sizes of "threaded u", thus giving the 
    
 </p>
 
-<img src="https://i.imgur.com/JAb67DR.jpg" width=350>
-<img src="https://i.imgur.com/XiLoTFW.jpg" width=350>
+![](https://i.imgur.com/JAb67DR.jpg)
+![](https://i.imgur.com/XiLoTFW.jpg)
 
 <p>
    Although we obtained very good results in antenna performance, we are still looking for a simpler way to attach the wires, preserving the length of the waveguide in the next prototype.
@@ -328,9 +318,8 @@ Toxicity of the process and the resulting residues.
     
 </p>
     
-<img src="https://i.imgur.com/N9Dovy3.jpg" width=450>
-
-<img src="https://i.imgur.com/7QY8NYF.png" width=450>
+![](https://i.imgur.com/N9Dovy3.jpg)
+![](https://i.imgur.com/7QY8NYF.png)
 
 <ul>
     <li>
