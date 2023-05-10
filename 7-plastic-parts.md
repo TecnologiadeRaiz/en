@@ -13,7 +13,7 @@ Initially, the plastic parts arose from the need to replace the plastic lids use
 
 Seeing the potential of 3D printing, we designed a prototype of a portachain to hold the antenna cables, as well as molds to facilitate the drilling of the waveguide pipes.
 
-The current portachain allows us to replace procedures such as welding or resining, shortening production times and costs as well. The process to arrive at these designs and the different previous prototypes are recorded  <a href="https://tdr.libre.org.ar/6-prototipado">here</a>.
+The current portachain allows us to replace procedures such as welding or resining, shortening production times and costs as well. The process to arrive at these designs and the different previous prototypes are recorded  <a href="https://tdr.libre.org.ar/6-waveguide-prototype.md">here</a>.
     
 This research process involved familiarizing ourselves with the design tools in Freecad and practice with the printer. Currently we are about to access a training course at the UTN (National Technical University) to perfect the prints.
 
