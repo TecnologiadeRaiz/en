@@ -91,7 +91,7 @@ That's why we decided to try anti-rust paint which has characteristics such as:
 
 
 Due to these characteristics and the ease of dilution and its covering power, we are currently using this paint as a coating for our models.
-For more information about the procedure, here.    
+For more information about the procedure, <a href="/5-waveguide-and-workspace.html">here.</a>    
 
 
 
