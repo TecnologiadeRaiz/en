@@ -6,7 +6,11 @@ SPDX-License-Identifier: CC-BY-NC-4.0
 
 # Tecnología De Raíz
 
-<img src="https://i.imgur.com/GyKBlpb.jpg" height="250">
+
+
+![](images/logo.jpeg)
+
+
 
 ## We are TdR
 
