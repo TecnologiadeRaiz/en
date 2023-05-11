@@ -25,7 +25,8 @@ This research process involved familiarizing ourselves with the design tools in 
 Our first <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Partes%20plasticas/Tapas/TAPA-v1.FCStd">design</a> allowed us to improve the performance of the antenna, since the plastic strips that we used as a cover interfered with the waveguide signal.
 
 
-![](https://i.imgur.com/B5QyScj.png)
+
+![](images/planotapa.png)
 ![](https://i.imgur.com/qcSYKYG.jpg)
 ![](https://i.imgur.com/USdhI9N.jpg)  
 
