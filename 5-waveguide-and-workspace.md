@@ -12,10 +12,12 @@ The physical space in which we work is a 3.5m x 4m room, where we have two work 
 * One where we preparate the pipes and metal brackets.
 * Another one where we have the device that holds the wires for welding.
 
- 
 
-![](https://i.imgur.com/gXzymOk.jpg)
-![](https://i.imgur.com/q1ku5VV.jpg)
+ 
+![](images/1-taller.jpeg)
+![](images/2-taller.jpeg)
+
+
 
 ## Personal protective equipment:
 
@@ -28,6 +30,7 @@ The physical space in which we work is a 3.5m x 4m room, where we have two work 
 
 
 ## Production process with advanced materials and tools
+
 
 ## Mark Metal Brackets
 
@@ -52,8 +55,10 @@ For this process we use a table and a wooden block that helps us to make the mar
 
 We use the work table with a wooden block that holds the metal plate to mark it, supporting the template to make the perforations on it.
 
-![](https://i.imgur.com/ttwx4Xp.jpg)
-![](https://i.imgur.com/qqn3m3w.jpg)
+
+
+![](images/3-plantilla_de_soporte.jpeg)
+![](images/4-punzando.jpeg)
 
 
 
@@ -63,7 +68,8 @@ With the help of the template we proceed to mark the plate with a marking point 
 If you do not have the resources to create such a template, please visit the following <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Marking%20supports.pdf">link.</a>
 
 
-<img src="https://i.imgur.com/iICJJL1.jpg" width="250">
+
+![](images/5-soporte_punzado.jpeg)
 
 
 
@@ -95,11 +101,10 @@ With the metal plates marked, we proceed to drill them with the bench drill.
 Once the holes have been drilled, we file off the burrs.
 
 
-![](https://i.imgur.com/Uk10gMI.jpg)
-![](https://i.imgur.com/v7XmteS.jpg)
-![](https://i.imgur.com/a5hBm64.jpg)
-![](https://i.imgur.com/hnJvwl5.jpg)
-
+![](images/6-perforando_soporte.jpeg)
+![](images/7-soporte_perforado.jpeg)
+![](images/8-limando_soporte.jpeg)
+![](images/9-soporte_limado.jpeg)
 
 
 #### Recommendations:
@@ -130,15 +135,25 @@ For this task, we use the central workbench, with the bench drill.
 
 With the 130mm iron pipe we proceed to prepare the workbench to drill the waveguide.
 
-<img src="https://i.imgur.com/GhNqUXl.jpg" width="250">
+
+
+![](images/10-waveguide_sin_perforacion.jpeg)
+
+
 
 With the help of the <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/MOLDE%20DE%20PERFORACION%20GUIA%20DE%20ONDAS-v2.FCStd">drilling mold.</a>. 
 
-<img src="https://i.imgur.com/5j43Whh.jpg" width="250">
+
+
+![](images/11-perforando_waveguide.jpeg)
+
+
 
 Once the pipe is drilled we tin around the holes.
 
-<img src="https://i.imgur.com/DWT8PUM.jpg" width="300">
+
+
+![](images/12-estaniando_waveguide.jpeg)
 
 
 
@@ -168,9 +183,11 @@ The waveguide pipe is used as a template to mark the brackets.
 Then with the sheet metal cutter, following the marks, the rounded shape is given.
 
 
-![](https://i.imgur.com/ra1M4Wp.jpg)
-![](https://i.imgur.com/Ul3tYHn.jpg)
-![](https://i.imgur.com/Xw1oF1h.jpg)
+
+![](images/13-NO_cortar_sin_guantes.jpeg)
+![](images/14-cortar_CON_guantes.jpeg)
+![](images/15-soportes.jpeg)
+
 
 
 #### Recommendations:
@@ -199,7 +216,9 @@ We use the work table, with a plate to protect the table from sparks falling dur
 
 With the bracket clamped to the mortise by its perforated side, we place the waveguide with the perforations facing downwards and one of them facing the rounded side of the bracket.
 
-<img src="https://i.imgur.com/03QkQWv.jpg" width="250">
+
+
+![](images/16-soldando_waveguide_y_soporte.jpeg)
 
 
 
@@ -227,7 +246,10 @@ We use the central table of the workshop with the bench vise in place.
 
 Holding the waveguide firmly with the clamp, we remove the excess solder from the bracket and the waveguide.
 
-<img src="https://i.imgur.com/kmyraO5.jpg" width="250">
+
+
+![](images/17-amolando_waveguide.jpeg)
+
 
 
 #### Cautions:
@@ -261,22 +283,31 @@ For drying, we use a hanging device where they can remain for the necessary time
 In case you do not have a painting machine, this procedure can be done with a brush.
 
 
-![](https://i.imgur.com/QMW2gVO.jpg)
-![](https://i.imgur.com/HRpBZ2O.jpg)
+
+![](images/18-pintando_waveguide.jpeg)
+![](images/19-antena_pintada.jpeg)
+
+
 
 ## Pigtail cable assembly
 
 #### Workspace:
 
-    This part of the production is carried out on a table free of metal filings or shavings.
+This part of the production is carried out on a table free of metal filings or shavings.
 
-![](https://i.imgur.com/ROP7Pib.jpg)
-![](https://i.imgur.com/F7tCu67.jpg)
+
+
+![](images/20-pelando_cable.jpeg)
+![](images/21-herramientas.jpeg)
+
+
 
 We fit the SMA RP male connectors
 
-![](https://i.imgur.com/rShLDTP.jpg)
-![](https://i.imgur.com/ezeSEGo.png)
+
+
+![](images/22-soldando_espiga.jpeg)
+![](images/23-espigas_soldadas.png)
 
 
 
@@ -289,16 +320,19 @@ To show how the process works, we share these explainer videos:
 
 To complete the process, they are crimped and heat-shrunk. 
 
-![](https://i.imgur.com/ZACdT5x.png)
-![](https://i.imgur.com/HNBOqjr.jpg)
 
+
+![](images/24-crimpeando_sma.png)
+![](images/25-aplicando_termocontraible.jpg)
 
 
 
 At the other end of the wire, we strip the sheath to obtain the pin that will illuminate the waveguide.
 We recommend an 11.7mm long pin.
 
-<img src="https://i.imgur.com/ROP7Pib.jpg" width="250">
+
+
+![](images/26-pelando_espiga.jpeg)
 
 
 
@@ -308,6 +342,12 @@ We recommend an 11.7mm long pin.
 #### Workspace:
 
 This process can be performed on the auxiliary workbench, where we have installed a device with slots to hold the cables. 
+
+
+
+![](images/27-waveguide_con_pigtail.jpeg)
+
+
 
 #### For this process we need:  
 
@@ -320,8 +360,10 @@ This process can be performed on the auxiliary workbench, where we have installe
 #### How to do it?
 
 We tin the perforations previously brushed, then we take the pigtail cable, place it in the perforation and solder the mesh to the pipe (waveguide).
- 
-<img src="https://i.imgur.com/Yfhxqin.jpg" width="250">
+
+
+
+![](images/28-estaniando_waveguide.jpeg)
 
 
 
@@ -338,7 +380,11 @@ We must make sure that the soldering iron is very hot and clean, in order to min
 
 We use a piece of furniture where the 3D printer is positioned, sheltered from the hostility of the workshop.
 
-<img src="https://i.imgur.com/cdfA0QW.jpg" width="350">
+
+
+![](images/29-impresora_3D.jpeg)
+
+
 
 #### For this process we need: 
 
@@ -394,8 +440,9 @@ This work can be performed on the device created to hold the cables.
 First of all, an visual inspection is carried out in order to arrange the two pins at 90 degrees.
 Once this procedure is done, one of the wires is connected to the RC antenna meter and the waves emitted by that chain are measured first, and then those of the other one.
 
-<img src="https://i.imgur.com/8tGsiFz.jpg" width="250">
 
+
+![](images/30-waveguide_con_pigtails.jpeg)
 
 
 
@@ -414,9 +461,14 @@ To protect the illuminators, the waveguide is closed with a plastic cover and si
 ## Finished antenna    
 
 
-<img src="https://i.imgur.com/aEgRFwI.jpg" width="400">
+
+![](images/31-antena_terminada.jpeg)
+
+
 
 >!TDR is not responsible for possible damages caused by performing these procedures using this informative material.
+
+___
 
 <img src="https://user-images.githubusercontent.com/104506596/191294248-aa22ad16-f991-412b-8d32-99e27614e7f2.png" alt="Logo NLnet: abstract logo of four people seen from above" height="70"><img src="https://nlnet.nl/image/logos/technologycommonstrust.svg" height="100">
 

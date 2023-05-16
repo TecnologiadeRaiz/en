@@ -16,10 +16,13 @@ In the research to obtain a support design, we considered:
 
 
 
-![](https://i.imgur.com/hSVqjId.png)
-![](https://i.imgur.com/QhS3IQn.png)
-![](https://i.imgur.com/i77is0i.png)
-![](https://i.imgur.com/R4a2en7.png)
+![](images/1-Soporte_side.png)
+![](images/2-Soporte_top.png)
+![](images/3-Plano_soporte.png)
+![](images/3-Plano_soporte_side.png)
+![](images/4-Plano_soporte_top.png)
+
+
 
 <img src="https://user-images.githubusercontent.com/104506596/191294248-aa22ad16-f991-412b-8d32-99e27614e7f2.png" alt="Logo NLnet: abstract logo of four people seen from above" height="70"><img src="https://nlnet.nl/image/logos/technologycommonstrust.svg" height="100">
 

@@ -17,8 +17,8 @@ Our test scenario is located between a very tall pine tree in the town of Casa G
  
 
 
-<img src="https://i.imgur.com/CjLMMTv.jpg" width=350><br>
-<img src="https://i.imgur.com/3ujyUQH.png" width=350>
+![](images/1-mapa.jpeg)<br>
+![](images/2-menu_con_informacion.png)
 
 
 
@@ -44,7 +44,8 @@ In the search for a waveguide type antenna, we developed this prototype; one of 
  
 
 
-<img src="https://i.imgur.com/czlqfxj.jpg" width=350>
+![](images/3-canionica.jpeg)
+
 
 
 <p>
@@ -82,7 +83,8 @@ The diameter of the pipe "cuts" the passage of lower frequencies.
 
 
 
-<img src="https://i.imgur.com/KIhxWMe.png" width=450>
+![](images/4-medicion_canionica.png)
+
 
 
 <hr>
@@ -98,7 +100,11 @@ The diameter of the pipe "cuts" the passage of lower frequencies.
 </b>
 </p>
 
-<img src="https://i.imgur.com/TQav5AQ.jpg" width=300>
+
+
+![](images/5-canionica_v2.jpeg)
+
+
 
 <p>
    In this version, we modified the way of fastening the cables by soldering a copper pipe to the waveguide, crimping it, and sealing it with heat shrink.
@@ -121,13 +127,17 @@ The diameter of the pipe "cuts" the passage of lower frequencies.
 </ul>
 
 <p>
-   We use an autogenous welder (oxygen and acetylene) which increases the complexity of the workshop and the difficulty of welding.
+   We use an autogenous welder (oxygen and acetylene) which incre![](https://i.imgur.com/N9Dovy3.jpg)
+![](https://i.imgur.com/7QY8NYF.png)
+ases the complexity of the workshop and the difficulty of welding.
 
 There is also the possibility of generating "joint stresses" between the materials, which could affect the performance of the antenna.
     
 </p>
-    
-<img src="https://i.imgur.com/NSQup1n.png" width=450>
+
+
+
+![](images/6-mediciones_canionica-v2.png)
 
 
 
@@ -149,7 +159,11 @@ There is also the possibility of generating "joint stresses" between the materia
    
 </p>
 
-<img src="https://i.imgur.com/lk9GKrA.jpg" width=350>
+
+
+![](images/7-Conica.jpeg)
+
+
 
 <ul>
     <li>
@@ -170,7 +184,8 @@ There is also the possibility of generating "joint stresses" between the materia
 </p>
 
 
-<img src="https://i.imgur.com/edUjNmK.png" width=250> 
+![](images/8-mediciones_conica.png)
+
 
 
 <h3>
@@ -180,14 +195,17 @@ There is also the possibility of generating "joint stresses" between the materia
 <p>
    <b>
        In this prototype, we shortened the length of the pipe, with an internal diameter of 42 mm, adding a conical end made of sheet metal and welded.
-
 </b>
-    
+ 
 To support the cables, we designed a "bridge" type grip with sheet metal welded to the waveguide. 
 </p>
 
-![](https://i.imgur.com/GUXQlql.jpg)
-![](https://i.imgur.com/fRiHOqY.jpg)
+
+
+![](images/9-conica_v2.jpeg)
+![](images/10-conica_v2.jpeg)
+
+
 
 <ul>
     <li>
@@ -218,9 +236,12 @@ Then we chose to leave room for only two sizes of "threaded u", thus giving the 
 </p>
 
 
-![](https://i.imgur.com/N9i2lSI.jpg)
-![](https://i.imgur.com/W4uxnWd.jpg)
-![](https://i.imgur.com/dLqFD0W.png)
+
+![](images/11-soportes.jpeg)
+![](images/12-midiendo_u_roscada.jpeg)
+![](images/13-mediciones_conica_v2.png)
+
+
 
 <h2>
     <u>
@@ -235,14 +256,22 @@ Then we chose to leave room for only two sizes of "threaded u", thus giving the 
    
 </p>
 
-![](https://i.imgur.com/JAb67DR.jpg)
-![](https://i.imgur.com/XiLoTFW.jpg)
+
+
+![](images/14-puentecita.jpeg)
+![](images/15-puentecita.jpeg)
+
+
 
 <p>
    Although we obtained very good results in antenna performance, we are still looking for a simpler way to attach the wires, preserving the length of the waveguide in the next prototype.
 </p>
+
+
     
-<img src="https://i.imgur.com/vWS240q.png" width=450>
+![](images/16-mediciones_puentecita.png)
+
+
 
 <ul>
     <li>
@@ -274,8 +303,8 @@ Then we chose to leave room for only two sizes of "threaded u", thus giving the 
  
 </p>
 
-<img src="https://i.imgur.com/mSNnPyS.jpg" width=450>
 
+![](images/17-resina.jpg)
 
 
 <ul>
@@ -302,7 +331,10 @@ Difficulty in removing resin residues in case of need for repair.
 Toxicity of the process and the resulting residues.
 </p>
 
-<img src="https://i.imgur.com/YZvfxxt.png" width=450>
+
+
+![](images/18-mediciones_resina.png)
+
 
 
 <h2>
@@ -317,9 +349,13 @@ Toxicity of the process and the resulting residues.
     </b>
     
 </p>
+
+
     
-![](https://i.imgur.com/N9Dovy3.jpg)
-![](https://i.imgur.com/7QY8NYF.png)
+![](images/19-waveguide_v4.jpg)
+![](images/20-mediciones_waveguide_v4.png)
+
+
 
 <ul>
     <li>

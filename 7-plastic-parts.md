@@ -26,9 +26,12 @@ Our first <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Partes%
 
 
 
-![](images/planotapa.png)
-![](https://i.imgur.com/qcSYKYG.jpg)
-![](https://i.imgur.com/USdhI9N.jpg)  
+![](images/1-plano_tapa.png)
+![](images/2-tapa.jpg)
+![](images/3-tapa.jpg)
+
+
+
 
 ### Drilling mold   
 
@@ -36,8 +39,11 @@ Our first <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Partes%
 
 This <a href="https://github.com/TecnologiadeRaiz/LoPALiR/tree/main/Partes%20plasticas/Molde%20de%20perforacion">design</a> gives us precision when drilling holes in the waveguide, speeding up the production process.
 
-![](https://i.imgur.com/wIoHxUG.jpg")
-![](https://i.imgur.com/3hOE8YZ.png")
+
+
+![](images/4-molde_de_perforacion.jpg)
+![](images/5-plano_molde_de_perforacion.png)
+
         
 
 ### Portachain
@@ -48,27 +54,37 @@ The possibility of designing <a href="https://github.com/TecnologiadeRaiz/LoPALi
 
 
 The first design was fragile because the material we used, PLA filament, was not suitable for the antennas, as they are exposed to sun, rain and wind.
-    
-![](https://i.imgur.com/eRYq3qk.jpg)
-![](https://i.imgur.com/hosCe4W.jpg)
+
+
+
+![](images/6-portachain_v1.jpg)
+![](images/7-portachain_v1.jpg)
+
 
 
 The second version of the portachain was designed taking into account the increased thickness of the part to give it more solvency, and the material, which was replaced by PETG filament.   
+
+
     
-![](https://i.imgur.com/sjzqKpC.jpg)
-![](https://i.imgur.com/dSYESlO.jpg)
-![](https://i.imgur.com/M4A7HxO.jpg)
-![](https://i.imgur.com/zUYhU1E.jpg)
+![](images/8-portachain_v2.jpg)
+![](images/9-portachain_v2.jpg)
+![](images/10-portachain_v2_impresora.jpg)
+![](images/11-portachain_v2_impresora.jpg)
+
    
 
 The first designs did not allow us to hold the cables as expected.
 
 Then we realized that in order to give it a better finish and a better grip, we had to attach a 3/8 crimped aluminum pipe ring to the cable holder, thus providing the expected firmness to hold the cables.
-![](https://i.imgur.com/I1uTTNk.jpg)
-![](https://i.imgur.com/AWqCxcW.jpg)
-![](https://i.imgur.com/p0yf3wo.jpg)
-![](https://i.imgur.com/huKXoWX.png)
-![](https://i.imgur.com/LlzesG8.png)
+
+
+
+![](images/12-portachain_v4.jpg)
+![](images/13-portachain_v4.jpg)
+![](images/14-aros.jpg)
+![](images/15-plano_portachain_v4.png)
+![](images/16-plano_portachain_v4.png)
+
 
 
 ### Paint
@@ -97,8 +113,11 @@ For more information about the procedure, <a href="/5-waveguide-and-workspace.ht
 
 ### Finished antenna with plastic parts
 
-![](https://i.imgur.com/m1Qy7DX.jpg)
-![](https://i.imgur.com/hki5apn.jpg)
+
+
+![](images/17-antena_pintada.jpg)
+![](images/18-antena_pintada.jpg)
+
 
 
 ### couplings for directional antenna design
@@ -110,14 +129,14 @@ The latest tests confirm that approximately 13dB of gain is achieved in one dire
 Parabola brackets allow the addition of the 16 inch secondary reflector to the waveguide. The nosepiece also covers the inside of the tube and holds the primary reflector in the focal zone of the parabola.
 The actual nose takes 5 hours to print, in total the necessary parts take almost 8 hours to print.
 
-![](images/portareflector-perspective001.png)
-![](images/soporte-parabaola002.png)
-![](images/waveguide-accesorios002.png)
 
 
+![](images/19-portareflector.png)
+![](images/20-soporte_parabaola.png)
+![](images/21-waveguide_con_accesorios.png)
 
----
 
+___
 <img src="https://user-images.githubusercontent.com/104506596/191294248-aa22ad16-f991-412b-8d32-99e27614e7f2.png" alt="Logo NLnet: abstract logo of four people seen from above" height="70"><img src="https://nlnet.nl/image/logos/technologycommonstrust.svg" height="100">
 
 <p>This project was funded through the <strong> <a href="https://nlnet.nl/useroperated/">User-Operated Internet</a> </strong> fund, a fund established by <a href="https://nlnet.nl">NLnet</a> made possible by financial support from the <a href="https://pkt.cash" rel="nofollow">PKT Community</a> <a href="https://pkt.cash/network-steward" rel="nofollow">The Network Steward</a> and stichting <a href="https://technologycommons.org">Technology Commons Trust</a>.</p> 

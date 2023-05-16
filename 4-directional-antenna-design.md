@@ -8,7 +8,9 @@ SPDX-License-Identifier: CC-BY-NC-4.0
 
 The present design aims to provide how to make a directional MiMo antenna for 5Ghz, capable of achieving a gain of 20dB to 25dB.
 
-<img src="https://i.imgur.com/ubGm5SP.png" height="400">
+
+
+![](images/1-Disenio_waveguide.png)
 
 
 
@@ -16,28 +18,42 @@ In this new iteration of the "Trompebolic" design, we used a 44mm waveguide with
 We used a 40cm diameter and 8cm high parabolic dish as a mould, calculating the focus at 12.5cm from the centre.
 
 
-![](images/parabola-front001.png)
-![](images/parabola-side001.png)
+
+![](images/2-Parabola_side.png)
+![](images/3-Parabola_rear.png)
+
 
 
 ### Reflector.
 
-<img src="https://i.imgur.com/sjcB1Ct.png" height="300">
 
 
-### Cover, parabola support and handles.
+![](images/4-Reflector_side.png)
 
-![](images/soporte-parabaola001.png)
-![](images/portareflector-side001.png)
-![](images/waveguide-perspective001.png)
-![](images/waveguide-accesorios001.png)
+
+
+### Parabola support and handles.
+
+
+
+![](images/5-Soporte_F.png)
+![](images/6-Soporte_T.png)
+![](images/7-Portarreflector_v1.png)
+![](images/8-parabola_400.png)
 
 
 
 ### Final design.
 
-![](images/plano-Parabola001.png)
-![](images/plano-portareflector001.png)
+
+
+![](images/9-Plano_parabola_side.png)
+![](images/10-plano_portarreflecctor.png)
+![](images/11-Plano_soporte_F.png)
+![](images/12-Plano_soporte_T.png)
+
+
+___
 
 <img src="https://user-images.githubusercontent.com/104506596/191294248-aa22ad16-f991-412b-8d32-99e27614e7f2.png" alt="Logo NLnet: abstract logo of four people seen from above" height="70"><img src="https://nlnet.nl/image/logos/technologycommonstrust.svg" height="100">
 

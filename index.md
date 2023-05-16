@@ -8,7 +8,8 @@ SPDX-License-Identifier: CC-BY-NC-4.0
 
 
 
-![](images/logo.jpeg)
+![](images/1-TdR_logo.jpeg)
+
 
 
 
@@ -18,13 +19,18 @@ Neighbors of the Ecological Neighborhood "El Montecito" located in Punilla Valle
 
 We formed a study and research group, wherein we created a space to work and study together, and we have sustained it continuously since mid-2019.
 
-<img src="https://i.imgur.com/lLrzTjU.jpg" height="250">
+
+
+![](images/2-team.jpeg)
 
 
 We start from curiosity and interest in sharing information about electricity, electronics, technology and the right to repairs. 
 Going that way, the MonteNet network was simultaneously deployed in our neighborhood, and we began to learn about community networks.
 
-<img src="https://i.imgur.com/kKUC4GT.jpg" height="300">
+
+
+![](images/3-pablo_antena.jpeg)
+
 
 
 We focus our interest on the research and development of antennas.
@@ -37,23 +43,35 @@ By forming ourselves as a working group, our search is:
 
 For this, we use a workshop space with a limited number of tools, which allow us to develop our production, but we would like to be able to improve it, both in terms of construction and adding machines and tools
 
-![](https://i.imgur.com/ljebrYh.jpg)
-![](https://i.imgur.com/EsKhwjh.jpg)
-![](https://i.imgur.com/iYsBOGX.jpg)
-![](https://i.imgur.com/3yWspAI.jpg)
+
+
+![](images/4-Pablo_soldando.jpeg)
+![](images/5-Sol_soldando.jpeg)
+![](images/6-Caro_moladora.jpeg)
+![](images/7-Caro_Sol_midiendo.jpeg)
+
+
 
 We started the research path by building double biquad antennas.
 
-![](https://i.imgur.com/vWV7acY.jpg)
-![](https://i.imgur.com/lvkdowg.jpg)
-![](https://i.imgur.com/NS17Tfq.jpg)
-![](https://i.imgur.com/xDR5DUN.jpg)
-![](https://i.imgur.com/pLAnDUg.jpg)
-![](https://i.imgur.com/13lidiH.jpg)
+
+
+![](images/8-Bicuad_metal.jpeg)
+![](images/9-Bicuad_rusty.jpeg)
+![](images/10-Bicuad_side.jpeg)
+![](images/11-Bicuad_x_2.jpeg)
+![](images/12-Bicuad_impresa.jpg)
+![](images/13-Bicuad_en_L.jpg)
+
+
 
 Some of which are installed in the MonteNet network, helping to improve the link between nodes.
 
-<img src="https://i.imgur.com/ADAAuaG.jpg" height="400"> 
+
+
+![](images/14-Antena_Rut.jpg)
+
+
 
 
 We have built some [waveguides](https://tdr.libre.org.ar/paso-a-paso-sectorial/) for the community networks in our territory, and we are working on a productive enterprise with them, responding to the needs of the networks, trying to create an efficient, low-cost, locally produced product.
