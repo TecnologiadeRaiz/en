@@ -117,3 +117,4 @@ We have built some [waveguides](https://tdr.libre.org.ar/paso-a-paso-sectorial/)
 * [Plastic parts](7-plastic-parts.md){step}
 
 
+* [Caracterization](Caracterization.md){step}
