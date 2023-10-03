@@ -4,19 +4,19 @@ SPDX-FileCopyrightText: 2023 Tecnología de Raíz <tecnologiaderaiz@disroot.org>
 SPDX-License-Identifier: CC-BY-NC-4.0
 -->
 
-# Field test.
+# Field test
 
-## Intro
+## Exploring horizons: antenna testing in diverse environments
 
 
 
-In this material we are going to share the experiences in which we worked in relation to the field tests of our antennas, telling about the programes and organizations and referencing those who took part in these processes. We consider these experiences to be very enriching for the groups that took part, as the articulation between organizations allows us to continue growing and learning. It also enables those who require it to deploy, expand and build inputs for community networks. One of these experiences is the ANERA project, in which AlterMundi promoted the participation, training and strengthening of a national programe of grants to community networks Roberto Arias - ENACOM. In the development of this successful project, several activities were carried out, such as a face-to-face meeting in which we delivered the antennas manufactured in the TdR workshop to several networks throughout the country.
+In this material we are going to share the experiences in which we worked in relation to the field tests of our antennas, telling about the programes and organizations and referencing those who took part in these processes. We consider these experiences to be very enriching for the groups that took part, as the articulation between organizations allows us to continue growing and learning. It also enables those who require it to deploy, expand and build inputs for community networks. One of these experiences is the ANERA project, in which AlterMundi promoted the participation, training and strengthening of a national programe of grants to community networks [Roberto Arias - ENACOM](https://altermundi.net/2022/11/03/ieee-reconocio-con-el-primer-premio-al-semillero-de-redes-comunitarias-para-postulantes-al-programa-roberto-arias/). In the development of this successful project, several activities were carried out, such as a [face-to-face meeting](https://elbrote.org/alegria-comunidad-y-redes-libre/) in which [we delivered the antennas manufactured in the TdR workshop to several networks throughout the country](https://www.instagram.com/reel/CkwruueuoDV/?igshid=MTc4MmM1YmI2Ng==).
 
-This is also the case in India, where, thanks to the "Community of Practice" programe of the "Association for Progressive Communications" and the participation of the community of Janastu, exchanges of practices and methods of antenna production took place.
+This is also the case in India, where, thanks to the ["Community of Practice"](https://communitynetworks.group/c/cops/16) programe of the "Association for Progressive Communications" and the participation of the community of [Janastu](https://open.janastu.org/projects), exchanges of practices and methods of antenna production took place.
 
-Similarly, the Colnodo community in Colombia adopted our design and manufacturing method, testing their first prototypes in laboratories at the Universidad Departamental de Bogotá.
+Similarly, the [Colnodo](https://colnodo.apc.org/es/experiencias/el-equipo-de-redes-comunitarias-de-colnodo-fabrica-prototipo-de-antena-para-conectar-territorios-en-colombia) community in Colombia adopted our design and manufacturing method, testing their first prototypes in laboratories at the Universidad Departamental de Bogotá.
 
-Following these experiences and with the aim of carrying out field tests of the conical version of our antennas, we organized a visit to Campo de la Rivera, a popular neighborhood on the outskirts of the capital of Córdoba, where the residents created a community network to solve their connectivity problems, mainly related to the lack of resources to access the expensive services provided by telecommunications companies. There, members of the Encuentro de Organizaciones group installed 5 LibreRouter nodes with antennas built by TdR, which we replaced with conical antennas for field tests. In this part of the neighborhood, the community network and the TdR antennas provide connectivity to neighbors, as well as to a community space where there is a dining room, a picnic area and other activities that enrich the community work. There, we met in the community dining room, where we shared activities and they showed us how the network works in order to start the tests.
+Following these experiences and with the aim of carrying out field tests of the conical version of our antennas, we organized a visit to Campo de la Rivera, a popular neighborhood on the outskirts of the capital of Córdoba, where the residents created a community network to solve their connectivity problems, mainly related to the lack of resources to access the expensive services provided by telecommunications companies. There, members of the Encuentro de Organizaciones group installed 5 LibreRouter nodes with antennas built by TdR, which we replaced with conical antennas for field tests. In this part of the neighborhood, the community network and the TdR antennas provide connectivity to neighbors, as well as to a [community space](https://www.facebook.com/asambleadecampodelaribera/) where there is a dining room, a picnic area and other activities that enrich the community work. There, we met in the community kitchen, where we shared activities and they showed us how the network works in order to start the tests.
 
 
 ![](images/1-juntada-inicial.jpg)
@@ -25,17 +25,9 @@ Following these experiences and with the aim of carrying out field tests of the 
 
 ---
 
-###
+### Test results
 
-Resultados de las pruebas.
-
-Primera prueba.
-
-En primer lugar realizamos mediciones con las antenas que tenían instaladas en la red de Campo de la Rivera. Estas antenas, realizadas con el método de sujeción de cables de resina, dieron los siguientes resultados: 
-
-### Test results.
-
-#### First test.
+#### "Campo de la Ribera"
 
 First, we carried out measurements with the antennas that were installed in the Campo de la Rivera network. These antennas, carried out with the resin cable clamping method, gave the following results: 
 
@@ -56,9 +48,9 @@ In this graph we can see that the antenna signal in its chain 1 reaches -54dB in
 
 ---
 
-#### Second test
+#### "El Montecito" y "Casa Grande"
 
-Our next field test was carried out in the community network in our territory. Here MonteLibre allows 60 families from two neighboring villages to access communication.
+Our next field test was carried out in the community network in our territory. Here [MonteLibre](https://libregrande.online/) allows 60 families from two neighboring villages to access communication.
 
 
 ![](images/8-jmariancho.jpeg)
