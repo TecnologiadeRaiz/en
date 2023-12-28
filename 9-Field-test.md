@@ -72,7 +72,7 @@ In this same scenario, where we have tested the previous prototypes, we placed t
 ![](images/10-conica-Palito.png)
 ![](images/11-Medicion-Conica-25dB.png)
 
-In conclusion, we have found that the performance of the conical antennas is very good, and can improve connectivity compared to the other versions, as they provide higher gain using only slightly more material.
+In conclusion, we have found that the performance of the conical antennas is very good, and can improve connectivity compared to the other versions, as they provide higher signal gain level using only slightly more material. Although this makes it much harder to build
 
 
 
